@@ -17,12 +17,12 @@ Web based Application (Just launch it)
 
 * As a visitor to an area I want to know in advance of my travel whether there are any warnings that may affect my travel plans.
 
-
 ## License:
 Refer to the MIT license in the repository.
 
 ## Credit
 N/A
+
 ## Test page 
 
 ## Link to Github Repository
