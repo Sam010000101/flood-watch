@@ -1,5 +1,5 @@
 # Flood-Watch
-Search for historic flood events that happened in the UK
+A 4-Member Team Project
 
 ## Description
 * A dashboard where you can call -up UK flood warnings and pinpoint them on the map.
@@ -17,17 +17,19 @@ Web based Application (Just launch it)
 
 * As a visitor to an area I want to know in advance of my travel whether there are any warnings that may affect my travel plans.
 
-## Acceptance Criteria
-* It is done when a user searches a city/location and it birngs out flood warnings relating to that particular City.
-
-*It is done 
 
 ## License:
 Refer to the MIT license in the repository.
 
 ## Credit
 N/A
-## Landing page 
+## Test page 
 
 ## Link to Github Repository
 https://github.com/Sam010000101/flood-watch
+
+## Contributors:
+* Sam Brooke
+* Paul Ashby
+* Damien Nsoh Ayine
+* Dayo Adekunle
