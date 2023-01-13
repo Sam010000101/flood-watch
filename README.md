@@ -1,3 +1,6 @@
+![html 5](https://img.shields.io/badge/html-5-blue)
+![Bootstrap 4](https://img.shields.io/badge/bootstrap-4-blue)
+![Valid HTML](https://img.shields.io/badge/valid-HTML-green)
 
 # Flood-Watch
 A 4-Member Team Project
